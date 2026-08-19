@@ -3,6 +3,8 @@ title: "Tips Menjadi Kiper yang Baik"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Kumpulan tips menjadi kiper yang baik, mulai dari teknik dasar menangkap bola, positioning, hingga latihan mental yang perlu dikuasai."
+meta_title: "Tips Menjadi Kiper yang Baik di Lapangan"
+meta_description: "Menjadi kiper butuh teknik, positioning, dan mental kuat. Pelajari cara menangkap bola, membaca permainan, dan menjaga fokus agar jadi kiper andalan."
 tags: ["kiper", "tips kiper", "sepak bola"]
 ---
 

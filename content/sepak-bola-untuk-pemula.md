@@ -3,6 +3,8 @@ title: "Sepak Bola untuk Pemula: Panduan Mulai Bermain"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Panduan sepak bola untuk pemula lengkap dari perlengkapan dasar, teknik dasar, hingga latihan pertama yang bisa dilakukan tanpa pengalaman sebelumnya."
+meta_title: "Sepak Bola untuk Pemula: Panduan Lengkap Mulai Bermain"
+meta_description: "Tidak pernah ada kata terlambat bermain sepak bola. Pelajari perlengkapan, teknik dasar, aturan, dan cara berlatih agar percaya diri ke lapangan."
 tags: ["sepak bola pemula", "panduan", "olahraga"]
 ---
 

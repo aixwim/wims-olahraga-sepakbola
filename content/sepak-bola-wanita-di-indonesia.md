@@ -3,6 +3,8 @@ title: "Sepak Bola Wanita di Indonesia"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Perkembangan sepak bola wanita di Indonesia dari kompetisi lokal, prestasi tim nasional, hingga tantangan yang masih dihadapi para pesepakbola wanita."
+meta_title: "Perkembangan Sepak Bola Wanita di Indonesia"
+meta_description: "Sepak bola wanita Indonesia berkembang lewat kompetisi dan prestasi tim nasional. Simak perjalanan, tantangan, dan dukungan bagi para pemain wanita."
 tags: ["wanita", "sepak bola", "indonesia", "tim nasional"]
 ---
 

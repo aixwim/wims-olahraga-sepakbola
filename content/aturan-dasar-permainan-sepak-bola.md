@@ -3,6 +3,8 @@ title: "Aturan Dasar Permainan Sepak Bola"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Mengenal aturan dasar permainan sepak bola mulai dari jumlah pemain, durasi pertandingan, hingga pelanggaran dan tendangan penalti."
+meta_title: "Aturan Dasar Permainan Sepak Bola yang Perlu Diketahui"
+meta_description: "Kenali aturan dasar sepak bola, dari jumlah pemain, durasi pertandingan, hingga pelanggaran dan tendangan penalti agar bermain dan menonton dengan paham."
 tags: ["aturan", "sepak bola", "pemula", "wasit"]
 ---
 

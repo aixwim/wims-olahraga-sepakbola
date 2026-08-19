@@ -3,6 +3,8 @@ title: "Memahami Posisi Pemain dalam Sepak Bola"
 date: "2026-08-18"
 category: "Olahraga"
 excerpt: "Panduan lengkap memahami posisi pemain sepak bola dari kiper, bek, gelandang, hingga penyerang beserta peran dan tanggung jawabnya di lapangan."
+meta_title: "Memahami Posisi Pemain dalam Sepak Bola"
+meta_description: "Pahami peran dan tanggung jawab kiper, bek, gelandang, dan penyerang di lapangan. Ini kunci untuk menjadi pemain sekaligus penonton sepak bola yang cerdas."
 tags: ["posisi pemain", "sepak bola", "taktik"]
 ---
 

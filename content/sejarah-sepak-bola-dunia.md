@@ -3,6 +3,8 @@ title: "Sejarah Sepak Bola Dunia"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Menelusuri sejarah sepak bola dunia dari permainan kuno di Tiongkok, lahirnya aturan modern di Inggris, hingga menjadi olahraga paling populer."
+meta_title: "Sejarah Sepak Bola Dunia dari Kuno hingga Modern"
+meta_description: "Telusuri sejarah sepak bola dari permainan kuno di Tiongkok hingga lahirnya aturan modern dan era Piala Dunia yang membuatnya paling populer."
 tags: ["sejarah", "sepak bola", "piala dunia", "olahraga"]
 ---
 

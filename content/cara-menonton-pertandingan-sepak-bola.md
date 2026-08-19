@@ -3,6 +3,8 @@ title: "Cara Menonton Pertandingan Sepak Bola"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Panduan menonton pertandingan sepak bola dengan lebih seru, mulai dari mengenal tim, memahami aturan, hingga menikmati atmosfer suporter."
+meta_title: "Cara Menonton Pertandingan Sepak Bola agar Seru"
+meta_description: "Menonton sepak bola lebih seru dengan memahami tim, alur permainan, dan atmosfer suporter. Simak tips agar pengalaman menontonmu semakin berkesan."
 tags: ["menonton", "sepak bola", "suporter", "penonton"]
 ---
 

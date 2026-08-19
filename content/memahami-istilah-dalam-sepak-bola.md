@@ -3,6 +3,8 @@ title: "Memahami Istilah dalam Sepak Bola"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Kamus singkat istilah dalam sepak bola mulai dari offside, dribbling, assist, hingga hat-trick agar lebih paham saat menonton pertandingan."
+meta_title: "Memahami Istilah Sepak Bola agar Paham Pertandingan"
+meta_description: "Sering bingung dengan istilah sepak bola seperti offside, assist, hingga hat-trick? Simak kamus singkatnya agar lebih menikmati setiap pertandingan."
 tags: ["istilah", "sepak bola", "penonton", "pemula"]
 ---
 

@@ -3,6 +3,8 @@ title: "Latihan Fisik Pemain Sepak Bola"
 date: "2026-08-19"
 category: "Olahraga"
 excerpt: "Panduan latihan fisik pemain sepak bola mencakup daya tahan, kekuatan, kecepatan, dan kelincahan untuk performa terbaik di lapangan."
+meta_title: "Latihan Fisik Pemain Sepak Bola yang Perlu Dikuasai"
+meta_description: "Sepak bola menuntut kondisi fisik prima. Pelajari latihan daya tahan, kekuatan, kecepatan, dan kelincahan agar tampil maksimal di lapangan."
 tags: ["latihan fisik", "sepak bola", "kebugaran", "olahraga"]
 ---
 

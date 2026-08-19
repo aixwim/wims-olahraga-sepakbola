@@ -3,6 +3,8 @@ title: "Selamat Datang di Wim Olahraga Sepak Bola"
 date: "2026-08-18"
 category: "Perkenalan"
 excerpt: "Wim Olahraga Sepak Bola — Deskripsi meta Wim Olahraga Sepak Bola."
+meta_title: "Selamat Datang di Wim Olahraga Sepak Bola"
+meta_description: "Selamat datang di Wim Olahraga Sepak Bola, portal berbahasa Indonesia yang membahas sepak bola untuk semua. Jelajahi artikel terbaik dan temukan informasi"
 tags: ["perkenalan"]
 ---
 
